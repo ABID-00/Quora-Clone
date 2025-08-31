@@ -1,0 +1,44 @@
+body{
+    background-color: antiquewhite;
+}
+
+h1{
+    color: red;
+}
+
+div h2{
+    font-style: italic;
+}
+div{
+    padding: 5px;
+}
+
+.posts{
+    padding: 5px;
+    height: auto;
+    width: 300px;
+    background-color:darkgray;
+    border: 2px solid black;
+    border-radius: 20px;
+    margin-top: 10px;
+}
+
+.toggle{
+    text-decoration: none;
+    color: black;
+    border: 2px solid black;
+    border-radius: 5px;
+    background-color:rgb(221, 221, 221);
+    margin: 2px;
+    
+}
+
+#new{
+    text-decoration: none;
+    padding: 3px;
+    color: black;
+    border: 2px solid black;
+    border-radius: 10px;
+    background-color:rgb(221, 221, 221);
+
+}
